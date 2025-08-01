@@ -3,8 +3,6 @@
 
 A Node.js-based application designed to simplify and automate school administrative tasks such as managing students, teachers, classes, attendance, and more.
 
----
-
 ## 📚 Table of Contents
 
 - [Features](#features)
@@ -18,8 +16,6 @@ A Node.js-based application designed to simplify and automate school administrat
 - [Contributors](#contributors)
 - [License](#license)
 
----
-
 ## ✨ Features
 
 - Student & Teacher Management
@@ -28,8 +24,6 @@ A Node.js-based application designed to simplify and automate school administrat
 - Exam Results
 - User Authentication (JWT)
 - Admin Dashboard
-
----
 
 ## 🛠 Tech Stack
 
@@ -45,9 +39,6 @@ A Node.js-based application designed to simplify and automate school administrat
 ![Express](https://img.shields.io/badge/Express.js-Framework-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
-
-
----
 
 ## 🚀 Installation
 
@@ -65,7 +56,7 @@ npm install
 ```
 
 ## Screenshot 
-![Dashboard](dashboard.png)
+![Dashboard](chean-ang-heng-oSwUQkuLy3U-unsplash.jpg)
 
 ## 🔧 Usage 
 To run the server in development mode:
@@ -76,14 +67,10 @@ To start the server normally:
 ```bash
 npm start
 ```
-
 Access the API at 
 ```bash
 http://localhost:3000/api
 ```
-
-
-
 ## 📮 API Endpoints 
 |Method | Endpoint            | Description       |
 |-------|---------------------|-------------------|
@@ -92,7 +79,6 @@ http://localhost:3000/api
 | POST   |/api/students      | Login to system   |
 | PUT   |/api/students/:id      | Login to system   |
 | DELETE   |/api/tudents/:id     | Login to system   |
-
 
 ## 🔑 Environment Variables
 Create a `.env` file in the root directory and add:
@@ -107,19 +93,13 @@ npm start       # Start the server
 npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
-
-
 ## 👥 Contributors
 ![@satan004](https://contrib.rocks/image?repo=satan004/readme_file_001)
-
 
 ## 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 ```yaml
-
----
-
 Let me know:
 - if your project uses MongoDB or MySQL (so I can adjust that part),
 - if you want to include screenshots or setup diagrams,
