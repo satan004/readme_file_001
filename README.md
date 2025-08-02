@@ -95,6 +95,10 @@ npm test        # Run test cases
 ```
 ## 👥 Contributors
 ![@satan004](https://contrib.rocks/image?repo=satan004/readme_file_001)
+<p align="left">
+  <a href="https://github.com/satan004">
+    <img src="https://avatars.githubusercontent.com/u/000001?v=4" width="50" style="border-radius: 50%;" alt="User1"/>
+  </a>
 
 ## 📄 License
 This project is licensed under the MIT License.
